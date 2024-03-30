@@ -1,2 +1,2 @@
-# Countdown1
+# countdown-1
 Assignment for Forge training.

@@ -1,0 +1,33 @@
+/* CSS styles for header */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  img {
+    width: 100px;
+    border-radius: 50%;
+  }
+  
+  /* CSS styles for sections */
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  /* CSS styles for footer */
+  footer {
+    text-align: center;
+  }
+  
